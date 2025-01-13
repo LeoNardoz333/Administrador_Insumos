@@ -1,0 +1,6 @@
+C:\OneDrive\Documentos\Escuela\Investigación\PresentacionInsumos\Entidades\bin\Debug\Entidades.dll
+C:\OneDrive\Documentos\Escuela\Investigación\PresentacionInsumos\Entidades\bin\Debug\Entidades.pdb
+C:\OneDrive\Documentos\Escuela\Investigación\PresentacionInsumos\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\OneDrive\Documentos\Escuela\Investigación\PresentacionInsumos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documentos\Escuela\Investigación\PresentacionInsumos\Entidades\obj\Debug\Entidades.dll
+C:\OneDrive\Documentos\Escuela\Investigación\PresentacionInsumos\Entidades\obj\Debug\Entidades.pdb
